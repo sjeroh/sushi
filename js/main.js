@@ -77,7 +77,7 @@ ScrollReveal().reveal('.home_img,.home_data,.about_data,.about_img,.recently_dat
   duration: 2500,
   distance: '60px',
   delay: 400,
-  // reset: true
+  reset: true
 });
 
 
